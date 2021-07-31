@@ -4,7 +4,8 @@
 
 <p>
 Sou Programador Full-Stack, chegado mais ao Back-end, mas tenho um pé em Front-end.
-Trabalho muito com JavaScript/TypeScript e sou apaixonado no framework Vue.js.
+</p>
+<p>Trabalho muito com JavaScript/TypeScript e sou apaixonado no framework Vue.js.
 </p>
 
 <p>
