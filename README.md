@@ -13,7 +13,7 @@ Ex-aluno da instituição CTAI/SENAI - SC, estava cursando o Superior de Anális
 
 <div style="display: inline_block">
   <a href="https://github.com/cauannora">
-    <img src="https://github-readme-stats.vercel.app/api?username=cauannora&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=cauannora&show_icons=true&theme=dracula&custom_title=Cauan%20-%20Github%20-%20%20Stats">
   </a>
   <a href="https://github.com/cauannora">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cauannora&layout=compact&theme=dracula"/>
