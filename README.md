@@ -3,13 +3,11 @@
 ### Sobre mim:
 
 <p>
-Sou Programador Full-Stack, chegado mais ao Back-end, mas tenho um pé em Front-end.
-</p>
-<p>Trabalho muito com JavaScript/TypeScript e sou apaixonado no framework Vue.js.
+Hoje trabalho como Analista de Infraestrutura DevOps.
 </p>
 
 <p>
-Ex-aluno da instituição CTAI/SENAI - SC, estava cursando o Superior de Análise e Desenvolvimento de Sistemas, porém tranquei o curso na 5ª Fase por motivo de pandemia.
+Ex-aluno da instituição CTAI/SENAI - SC, formado em Análise e Desenvolvimento de Sistemas.
 </p>
 
 <div style="display: inline_block">
